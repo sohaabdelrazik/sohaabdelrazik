@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohaabdelrazik
-- 👀 I’m interested in programming
+- 👀 I’m a Full-stack web developer
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me sohasossa34@gmail.com
